@@ -34,3 +34,46 @@ Scan this QR code to download or open the app on your device via Expo:
 
 👉 [Click here to open in browser](https://expo.dev/accounts/jayanth_2174/projects/todoList/builds/6bdd1335-c7b2-43e0-af7a-7bd99b58e7f4)
 
+---
+
+## 📥 Cloning and Running the Project Locally
+
+Follow these straightforward steps to get the To-Do App running on your local machine.
+
+### 🔧 Prerequisites
+
+Before you start, make sure you have:
+
+* **Node.js and npm** installed on your system.
+* **Expo CLI** installed globally. If not, run:
+    ```bash
+    npm install --global expo-cli
+    ```
+* The **Expo Go app** installed on your mobile device (for testing on Android/iOS).
+
+### 📦 Clone and Run
+
+```bash
+# Step 1: Clone the repository
+git clone [https://github.com/jayanth217/Todo-App.git](https://github.com/jayanth217/Todo-App.git)
+
+# Step 2: Navigate into the project directory
+cd Todo-App
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start the Expo development server
+npx expo start
+```
+
+---
+
+
+## 📲 Run the App
+
+- **On a real device:**   Scan the QR code shown in your terminal using the Expo Go app
+
+
+- **On an emulator:** Use Android Studio or Xcode simulator (Expo will detect them)
+ 
